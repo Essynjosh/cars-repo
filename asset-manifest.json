@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/REPO/static/js/main.545e8b39.js",
+    "static/js/51.628e4646.chunk.js": "/REPO/static/js/51.628e4646.chunk.js",
+    "static/media/nissan.jpg": "/REPO/static/media/nissan.2786965dde07a7fada87.jpg",
+    "index.html": "/REPO/index.html",
+    "main.545e8b39.js.map": "/REPO/static/js/main.545e8b39.js.map",
+    "51.628e4646.chunk.js.map": "/REPO/static/js/51.628e4646.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.545e8b39.js"
+  ]
+}
